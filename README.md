@@ -1,51 +1,66 @@
 
 <img width="1584" height="396" alt="linkedin_banner" src="https://github.com/user-attachments/assets/e82cc736-b65d-492c-9c1b-50b6fbcb2a04" />
 
-# SattvicYantra
+## 🚀 **SattvicYantra**
 
-**Orchestrating Intelligent Systems**
+*Orchestrating Automation & AI Agents*
 
-SattvicYantra is a systems-focused technology company that designs and orchestrates intelligent pipelines, automation frameworks, and AI-driven agent systems.
+**SattvicYantra** builds and orchestrates ***automation pipelines and AI agent systems*** that solve real-world problems.
 
-We build foundational products and platforms—such as personal finance systems, backend pipeline automation, and AI agent tools—focused on structure, coordination, and long-term reliability.
+We work across **products** and **services**—designing reliable, scalable workflows powered by automation and agent-based intelligence. Our focus is execution, orchestration, and control—not generic software development.
 
-Alongside products, we selectively work with partners on bespoke system design (custom AI agents, orchestration layers, automation pipelines) when such work strengthens our long-term platform vision.
-
-SattvicYantra operates as a **parent brand** under which multiple products, internal systems, and experiments may exist.
-
----
-
-## **🎯** Focus Areas
-
-- Intelligent system orchestration
-- Pipelines and automation frameworks
-- AI agent architectures
+> Parent brand for automation and AI agent infrastructure.
+> 
 
 ---
 
-## **🧠** Philosophy
+## 🎯 **What We Do**
 
-Complex systems must be **structured to scale**.
-
-Orchestration, clarity, and discipline matter more than hype or isolated features.
-
----
-
-## **📋** Standard
-
-If a system cannot be clearly understood, orchestrated, and evolved, it does not meet the SattvicYantra standard.
+- Automation pipeline design & orchestration
+- AI agent architecture and execution systems
+- Workflow automation with clear control boundaries
+- Custom automation & agent solutions for production use
 
 ---
 
-## **🛠** Current & Planned
+## 🛠 **How We Work**
 
-**🔄 In Progress**
+- **Products and services are complementary,** Service work solves real problems and informs product development
+- Systems are built for reliability, Observability, scale, and maintainability are non-negotiable
+- **Automation and AI are engineering problems** not magic, not hype
 
-- Personal finance os system
+---
+
+## 📍 **Focus Area**
+
+SattvicYantra specializes in work that strengthens expertise in:
+
+- Automation pipelines
+- AI agent systems
+- Orchestration layers
+- Execution-focused design
+
+Work outside this scope is intentionally avoided.
+
+---
+
+## 📋 **SattvicYantra Standard**
+
+If an automation or agent system cannot be clearly understood, orchestrated, and evolved—it doesn't meet our standard.
+
+---
+
+## 🔄 **Current Work**
+
+In Progress:
+
+- Personal finance OS system
 - Backend pipeline automation platform
 - Multi-agent AI orchestration layer
 
-**🤝 Partner Work (Selective)**
+---
 
-- Custom AI agent systems
-- Enterprise automation pipelines
+## 🤝 **Get Involved**
+
+`👨‍💻 GitHub: [github.com//sattvic-yantra](https://github.com/sattvic-yantra)`  
+`💼 Partner: founder@sattvicyantra.in`
