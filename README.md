@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="linkedin_banner" src="https://github.com/user-attachments/assets/87954afb-2e2a-4709-824a-be0a383f2bc8" />
+
+<img width="1584" height="396" alt="linkedin_banner" src="https://github.com/user-attachments/assets/e82cc736-b65d-492c-9c1b-50b6fbcb2a04" />
 
 # SattvicYantra
 
